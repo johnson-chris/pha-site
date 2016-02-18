@@ -141,3 +141,8 @@ footer {
 	margin: 2em auto;
 	border: 10px solid #6699FF;
 }
+
+.xs-resize {
+    width: 100%;
+    height: 100%;
+}
